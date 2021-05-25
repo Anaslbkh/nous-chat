@@ -1,4 +1,5 @@
 # nous-chat
+live preview:https://nous-chat-16022.web.app/
 
 ## Project setup
 ```
